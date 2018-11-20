@@ -7,4 +7,5 @@ Currently allows user to designate a 2 hour time gap (EX: 9:00 AM - 11:00PM) and
 
 Phase 2
 - Want to make this a program that runs on the command line to allow for easy use. 
--Incorporate options to allow for multiple users logins to locate a room together. Allowing a signle individual to use friend's logins to grab additional 2 hour time gap of the same room. 
+- Incorporate options to allow for multiple users logins to locate a room together. Allowing a signle individual to use friend's logins to grab additional 2 hour time gap of the same room. 
+- Currently only works for Gateway study center, but want to allow for any library to study area that allows students to reserve rooms
